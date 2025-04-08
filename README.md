@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm MC</h1>
+<h1>Hi 👋, I'm Hyunsoo Jung</h1>
 
 ### 🙋‍♂️ I'm Hyunsoo Jung, Fullstack Developer  
 🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 정현수입니다.  
