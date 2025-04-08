@@ -1,15 +1,13 @@
-
 <h1>Hi 👋, I'm MC</h1>
-<br>
 
-### 🙋 I'm Seoyeon, Fullstack developer. 
-🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 MC입니다. <br>
-🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
-🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다. <br>
-🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
-🔅 소심하나 적극적이고, 내성적이지만 활발합니다 
+### 🙋‍♂️ I'm Hyunsoo Jung, Fullstack Developer  
+🔅 다양한 기술 습득으로 끊임없는 성장을 꿈꾸는 개발자 MC입니다.  
+🔅 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  
+🔅 새로운 기술이나 도구에 대한 탐구 정신을 가지고 있어, 향상된 개발 기술을 습득하고 적용하는 데 주력하고 있습니다.  
+🔅 이를 통해 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다.  
+🔅 소심하나 적극적이고, 내성적이지만 활발합니다.
 
-<br>
+---
 
 ### 🛠 Languages and Tools
 <p>
@@ -28,42 +26,35 @@
   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> 
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/> 
   <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/> 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> 
 </p>
 
-<br>
+---
 
-### ⛺ Experiences
-<p>NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자</p>
+### ⛺ Experience
+- NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자 과정 수료
 
-<br>
+---
 
 ### 🎓 Education
-<p>서울대학교 철학과 심화전공  |  2020.03 ~ </p>
+- 신한대학교 소프트웨어융합학과  
+- 전공: 소프트웨어공학 (2020.03 ~ )
 
+---
 
-    
-<br>
+### ♾️ Connect with Me
+[<img align="left" alt="SOKURI_CODE | Blog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]  
+[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]  
+[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]  
 
-### ♾️ Connect with me
+[website]: http://febseo.dothome.co.kr  
+[youtube]: https://www.youtube.com/channel/UCkVjUFWYOQnJAmFsoR2t0QA  
+[instagram]: https://www.instagram.com/your_instagram_id_here  
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+---
 
-[website]: http://febseo.dothome.co.kr
-[youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
-
-<br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
-
-<br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
-
+### 📊 GitHub Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febseo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
+![MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en)
 
