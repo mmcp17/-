@@ -56,5 +56,7 @@
 
 ### 📊 GitHub Stats  
 
-![MC's GitHub stats](https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en)
+[![GitHub Streak](https://streak-stats.demolab.com?user=febseo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=febseo&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
